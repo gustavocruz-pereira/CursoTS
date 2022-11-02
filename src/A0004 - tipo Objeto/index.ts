@@ -1,0 +1,3 @@
+const objetoA = {
+    chaveA: 'valorA'
+}
